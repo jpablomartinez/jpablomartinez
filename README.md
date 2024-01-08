@@ -1,8 +1,8 @@
 Hi 👋 My name is Juan Pablo
 ===========================
 
-Software Engineer | Mobile and FullStack Dev
---------------------------------------------
+Software Engineer
+-----------------
 
 Bringing imagination to life through code 💻
 
