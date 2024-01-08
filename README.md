@@ -2,12 +2,13 @@ Hi 👋 My name is Juan Pablo
 ===========================
 
 Software Engineer | Mobile and FullStack Dev
------------------
+--------------------------------------------
 
 Bringing imagination to life through code 💻
 
 * 🌍  I'm based in Viña del Mar, Chile
 * ✉️  You can contact me at [jp.martinez.colombo@gmail.com](mailto:jp.martinez.colombo@gmail.com)
+* 🚀  I'm currently working on Zen Project
 * 🧠  I'm learning Flame, NextJS and prompts
 * 🤝  I'm open to collaborating on projects about Health, Pets, Environment and videogames
 * ⚡  I enjoy participating in sports, particularly Crossfit, and occasionally engage in musical pursuits with my keyboard or videogames development
