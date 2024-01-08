@@ -12,6 +12,13 @@ Bringing imagination to life through code 💻
 * 🤝  I'm open to collaborating on projects about Health, Pets, Environment and videogames
 * ⚡  I enjoy participating in sports, particularly Crossfit, and occasionally engage in musical pursuits with my keyboard or videogames development
 
+### Projects
+* 📱  [Sylhue](https://play.google.com/store/apps/details?id=com.menestrello.mendeleev&hl=en_US): Android mobile app with all chemical elements and properties
+* 📱  EDVA: Android mobile application that displayed to users all the vaccination centers set up by the chilean government during the COVID-19 pandemic. Show centers and map
+* 🖥️  [Espacio Diaz](https://www.espaciodiaz.com/): Landing page for contacting Espacio Diaz, the company specialized in crafting a wide range of furniture
+* 🕹️ STEAP: Virtual reality game designed to assist in physical therapy. In this video game, users walk on a treadmill while shooting slimes or drones to earn points.
+
+
 ### Skills
 
 
