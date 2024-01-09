@@ -14,7 +14,6 @@ Bringing imagination to life through code 💻
 * ⚡  I enjoy participating in sports, particularly Crossfit, and occasionally engage in musical pursuits with my keyboard or videogames development
 
 ### 💡 Solo Projects
---------------------
 
 #### Apps
 * 📱  [Sylhue](https://play.google.com/store/apps/details?id=com.menestrello.mendeleev&hl=en_US): Android mobile app with all chemical elements and properties
