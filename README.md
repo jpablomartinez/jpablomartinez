@@ -13,6 +13,9 @@ Bringing imagination to life through code 💻
 * 🤝  I'm open to collaborating on projects about Health, Environment and Videogames
 * ⚡  I enjoy participating in sports, particularly Crossfit, and occasionally engage in musical pursuits with my keyboard or videogames development
 
+![Jpablomartinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpablomartinez&show_icons=true&theme=transparent)
+
+
 ### 💡 Solo Projects
 
 #### Apps
