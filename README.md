@@ -35,7 +35,7 @@ Bringing imagination to life through code 💻
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=dart,ts,cs,flutter,express,nextjs,mongo,postgres,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,ts,cs,flutter,express,nextjs,mongo,postgres,aws&theme=dark)](https://skillicons.dev)
 
 
 ### Socials
