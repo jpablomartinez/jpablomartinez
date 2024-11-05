@@ -8,7 +8,7 @@ Bringing imagination to life through code 💻
 
 * 🌍  I'm based in Viña del Mar, Chile
 * ✉️  You can contact me at [jp.martinez.colombo@gmail.com](mailto:jp.martinez.colombo@gmail.com)
-* 🚀  I'm currently working on Brick Project
+* 🚀  I'm currently working on Brick Engine Project
 * 🧠  I'm learning Unity, VR and IoT 
 * 🤝  I'm open to collaborating on projects about Health, Environment and Videogames
 * 💼  You can read my resume [here](https://drive.google.com/file/d/160l_w7srbVkcIMyepDdPQef-6R2v_YNV/view?usp=sharing) 
