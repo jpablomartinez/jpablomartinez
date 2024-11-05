@@ -31,9 +31,16 @@ Bringing imagination to life through code 💻
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=dart,ts,cs,flutter,express,nextjs,mongo,postgres,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,ts,cs,flutter,express,nextjs,mongo,postgres,&theme=dark)](https://skillicons.dev)
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jpablomartinez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/jpablomartinez">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/jpablomartinez/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
