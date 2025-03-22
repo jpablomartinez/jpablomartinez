@@ -9,7 +9,7 @@ Bringing imagination to life through code 💻
 * 🌍  I'm based in Viña del Mar, Chile
 * ✉️  You can contact me at [jp.martinez.colombo@gmail.com](mailto:jp.martinez.colombo@gmail.com)
 * 🚀  I'm currently working on Brick Engine Project
-* 🧠  I'm learning Rust
+* 🧠  I'm learning Rust and .NET
 * 🤝  I'm open to collaborating on projects about Health, Environment and Videogames
 * 💼  You can read my resume [here](https://drive.google.com/file/d/1uvQ1tc3IcuJhsqWjBRAwecH9l4rorjFt/view?usp=sharing) 
 * ⚡  I enjoy participating in sports, particularly Crossfit, and occasionally engage in musical pursuits with my keyboard or videogames development
@@ -31,7 +31,8 @@ Bringing imagination to life through code 💻
 
 #### Videogames
 * 🕹️ STEAP: Virtual reality game designed to assist in physical therapy. In this video game, users walk on a treadmill while shooting slimes or drones to earn points.
-* 🕹️ An incomplete Sudoku: A mobile app game for play sudoku. Still has some bugs to solve and improves audios and even ui. But, you can play! :)
+* 🕹️ An incomplete Sudoku: A mobile app game for play sudoku. Still has some bugs to solve and improves audios and even ui. But, you can play! :). . Is Open Source, so you are free to modify and play with the code
+* 🕹️ Brick Games: A mobile game app inspired in brick 9999 in 1 games console. Only Snake and Race. Is Open Source, so you are free to modify and play with the code
 
 
 ### Skills
