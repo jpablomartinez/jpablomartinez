@@ -20,12 +20,12 @@ Bringing imagination to life through code 💻
 ### 💡 Solo Projects
 
 #### Apps & Games
-* 🕹️  Flappy Dash: A mobile game based on classic Flappy Bird build with a custom game engine.
-* 🕹️  Sudoku: A mobile game to play a classic Sudoku with three difficulty levels
-* 🕹️  Brick Games: A mobile game app inspired in brick 9999 in 1 games console. Only Snake and Race. Is Open Source, so you are free to modify and play with the code
-* 📱  Sylhue: Android mobile app with all chemical elements and properties
-* 📱  EDVA: Android mobile application that displayed to users all the vaccination centers set up by the chilean government during the COVID-19 pandemic. Show centers and map
-* 🕹️  STEAP: Virtual reality game designed to assist in physical therapy. In this video game, users walk on a treadmill while shooting slimes or drones to earn points.
+* 🕹️  **Flappy Dash**: A mobile game based on classic Flappy Bird build with a custom game engine.
+* 🕹️  **Sudoku**: A mobile game to play a classic Sudoku with three difficulty levels
+* 🕹️  **Brick Games**: A mobile game app inspired in brick 9999 in 1 games console. Only Snake and Race. Is Open Source, so you are free to modify and play with the code
+* 📱  **Sylhue**: Android mobile app with all chemical elements and properties
+* 📱  **EDVA**: Android mobile application that displayed to users all the vaccination centers set up by the chilean government during the COVID-19 pandemic. Show centers and map
+* 🕹️  **STEAP**: Virtual reality game designed to assist in physical therapy. In this video game, users walk on a treadmill while shooting slimes or drones to earn points.
 
 
 #### Web
