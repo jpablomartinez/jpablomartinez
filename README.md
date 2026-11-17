@@ -11,7 +11,7 @@ Bringing imagination to life through code 💻
 * 🚀  I'm currently working on Rustyboy
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on projects about Health, Environment and Videogames
-* 💼  You can read my resume [here](https://drive.google.com/file/d/1UIi693iEin5TY1UwoEzmJHa_xF77FMqv/view?usp=sharing) 
+* 💼  You can read my resume [here](https://drive.google.com/file/d/1udMHk-_3Z9jER6KACj6T4v_rfTHwwJ9D/view?usp=sharing) 
 * ⚡  I enjoy participating in sports, particularly Crossfit, and occasionally engage in musical pursuits with my keyboard or videogames development
 
 <!--[Jpablomartinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpablomartinez&show_icons=true&theme=transparent)-->
